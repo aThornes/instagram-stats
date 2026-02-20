@@ -20,8 +20,12 @@ This will generate a series of charts and save them to the output folder.
 
 ## Examples
 
+![2023 Yearly](examples/2023_yearly.png)
+
 ![2024 Yearly](examples/2024_yearly.png)
 
 ![2025 Yearly](examples/2025_yearly.png)
+
+![2026 Yearly](examples/2026_yearly.png)
 
 ![All Time Summary](examples/all_time_summary.png)
