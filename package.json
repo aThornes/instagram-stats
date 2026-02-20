@@ -1,0 +1,11 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "runStats": "node index.js --type stats",
+    "runVideo": "node index.js --type video"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.89",
+    "jsdom": "^24.0.0"
+  }
+}
